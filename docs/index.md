@@ -3,7 +3,7 @@ title: Introduction
 nav_order: 1
 ---
 
-# <img style="vertical-align: middle;height:40px; width:40px;" src="https://raw.githubusercontent.com/bxyteam/balloons-lu7abf/refs/heads/main/docs/images/book-open-text.png"> WSPR Balloon Tracks and Amateur Satellites Tracks WIKI
+# <img style="vertical-align: middle;height:40px; width:40px;" src="https://raw.githubusercontent.com/bxyteam/satellites-balloons-lu7abf-wiki/refs/heads/main/docs/images/book-open-text.png"> WSPR Balloon Tracks and Amateur Satellites Tracks WIKI
 
 <h3 align="center" style="font-weight:bold; font-style:italic;">A legacy of Pedro Converso</h3>
 <br>
